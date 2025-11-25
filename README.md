@@ -55,5 +55,3 @@ Developed during my internship to strengthen my backend logic skills using Java.
 Praveena Buddhini
 BICT (Hons) Undergraduate | Java Beginner Developer | Hex Softwares Intern
 
-Praveena Buddhini
-BICT (Hons) Undergraduate | Java Beginner Developer | Hex Softwares Intern
